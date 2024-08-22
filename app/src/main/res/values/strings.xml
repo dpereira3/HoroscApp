@@ -57,5 +57,7 @@
     <string name="luck_29">"A challenge you face now will become a stepping stone to success."</string>
     <string name="luck_30">"Unexpected travel plans will broaden your horizons."</string>
     <string name="luck_31">"A surprising twist of fate will bring unexpected blessings."</string>
+    <string name="icon_back">Icon Back</string>
+    <string name="horoscope_sign_image">Horoscope Sign Image</string>
 
 </resources>
